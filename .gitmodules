@@ -1,0 +1,3 @@
+[submodule "message-consistency"]
+	path = message-consistency
+	url = git@github.com:hein-hp/message-consistency.git
