@@ -1,3 +1,6 @@
 [submodule "message-consistency"]
 	path = message-consistency
 	url = git@github.com:hein-hp/message-consistency.git
+[submodule "sequence-generator"]
+	path = sequence-generator
+	url = git@github.com:hein-hp/sequence-generator.git
